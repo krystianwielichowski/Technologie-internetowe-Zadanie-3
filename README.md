@@ -1,2 +1,4 @@
-Technologie-internetowe-Zadanie-3
-=================================
+Zadanie 3
+========
+
+Ćwiczenie 3 z przedmiotu technologia internetowa
